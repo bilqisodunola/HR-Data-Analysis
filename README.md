@@ -19,3 +19,8 @@ Data was transformed using Microsoft PowerBI for ETL, visualization and to build
 # Findings and Recommendation
 In this project, it was discovered that the company has no career development plan in place. Employees especially the high performers are leaving due to absence of opportunity for career growth. 
 To solve this problem, the company needs to put in place proper structure to address the issue of career development. Most employees do not only bother about salary, but a place where they can develop their skills, add value and be more productive. The company need to schedule and organize trainings, seminars, workshops and other capacity building programs where all staff can particpate. 
+
+
+# Review/Comment
+Please, do not hesistate to leave constructive comment, observation and feedback. All are welcomed and will be treated appropraitely. 
+Thanks.
